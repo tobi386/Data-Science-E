@@ -69,3 +69,4 @@ ax[1].get_yaxis().set_visible(False)
 ax[1].set_title("Sorted List")
 
 plt.show()
+
